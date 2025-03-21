@@ -13,6 +13,12 @@ The layoff analysis project aims to provide valuable insights into workforce red
 
 This project enables better strategic planning by visualizing layoff patterns, identifying at-risk industries, and assisting in employment market analysis
 
+# REAL DATASET
+"C:\Users\digga\Downloads\layoffs.csv"
+
+# CLEAN DATASET
+"C:\Users\digga\OneDrive\Desktop\clean data.lnk"
+
 # PROBLEMS 
 1. Maximum number ,maximum percentage of laidoff in a day.
 2.  Which companies have laid off 100% of their employees, and how do they rank based on the amount of funds raised.
